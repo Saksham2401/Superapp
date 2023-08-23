@@ -2,6 +2,9 @@
 
 Superapp project for cuvette react capstone 
 
+## Deployed Link
+https://cool-flan-ca8cbe.netlify.app/
+
 ## Install dependencies 
 ``` Bash 
   npm install
